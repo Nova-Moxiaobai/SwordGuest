@@ -9,7 +9,6 @@ return {
     ["死铁轨"] = "https://raw.githubusercontent.com/Nova-Moxiaobai/SwordGuest/refs/heads/main/Free/Dead%20rail-obfuscated.lua",
     ["砍伐树木"] = "https://raw.githubusercontent.com/Nova-Moxiaobai/SwordGuest/refs/heads/main/Free/Cut%20Trees-obfuscated.lua",
     ["紧急"] = "https://raw.githubusercontent.com/Nova-Moxiaobai/SwordGuest/refs/heads/main/Free/Emden-obfuscated.lua",
-    ["战斗勇士"] = "https://raw.githubusercontent.com/Nova-Moxiaobai/SwordGuest/refs/heads/main/Free/Combat%20Warriors-obfuscated.lua",
     ["餐厅大亨3"] = "https://raw.githubusercontent.com/Nova-Moxiaobai/SwordGuest/refs/heads/main/Free/Restaurant%20Tycoon%203-obfuscated.lua",
     ["脑叶公司"] = "https://raw.githubusercontent.com/Nova-Moxiaobai/SwordGuest/refs/heads/main/Free/Lobotomy%20Corporation-obfuscated.lua",
     ["零售大亨2"] = "https://raw.githubusercontent.com/Nova-Moxiaobai/SwordGuest/refs/heads/main/Free/Retail%20Tycoon%202-obfuscated.lua",
